@@ -56,11 +56,9 @@
 <p><a href="https://www.instagram.com/yaa.its_navii?igsh=MXMzendxYmwzb2p3OQ=="> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="simplified learner"></a></p><br>
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&amp;show_icons=true&amp;locale=en&amp;layout=compact"
-        alt="ashutosh-pmishra"></p><br>
+<br>
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&amp;show_icons=true&amp;locale=en"
-        alt="ashutosh-pmishra"></p><br>
+        src"https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&amp;show_icons=true&amp;locale=en"
+        alt="Navneet Garg Github Stats"></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&amp;"
         alt="ashutosh-pmishra"></p>
