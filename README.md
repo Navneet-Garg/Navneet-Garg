@@ -72,4 +72,5 @@
         alt="thelunarlogic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelunarlogic&"
-        alt="thelunarlogic" /></p>
+        alt="thelunarlogic" /></p> 
+        <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
