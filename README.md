@@ -1,7 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Navneet</h1>
 <h3 align="center">A student of Chitkara University</h3>
-68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelunarlogic&label=Profile%20views&color=0e75b6&style=flat" alt="thelunarlogic" /> </p>
 
 - 👯 I’m looking to collaborate on *AI ML*
