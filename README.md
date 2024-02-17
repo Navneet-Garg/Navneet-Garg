@@ -1,13 +1,13 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Navneet</h1>
 <h3 align="center">A student of Chitkara University</h3>
-
+68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelunarlogic&label=Profile%20views&color=0e75b6&style=flat" alt="thelunarlogic" /> </p>
 
 - 👯 I’m looking to collaborate on *AI ML*
 
 - 📫 How to reach me *navneetgarg867@gmail.com*
-<img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yaa.its_navii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaa.its_navii" height="30" width="40" /></a>
