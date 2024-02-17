@@ -69,6 +69,5 @@
         src="https://github-readme-stats.vercel.app/api?username=thelunarlogic&show_icons=true&locale=en"
         alt="thelunarlogic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelunarlogic&"
-        alt="thelunarlogic" /></p> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
         <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
