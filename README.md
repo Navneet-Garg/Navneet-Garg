@@ -5,7 +5,7 @@
         src="https://komarev.com/ghpvc/?username=thelunarlogic&label=Profile%20views&color=0e75b6&style=flat"
         alt="thelunarlogic" /> </p>
 
-- 🔭 I’m currently Learning *Devops*
+- 🔭 I’m currently Learning *LLM*
 
 - 📫 How to reach me *navneetgarg867@gmail.com*
 
