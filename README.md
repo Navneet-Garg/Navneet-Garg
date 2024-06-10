@@ -68,7 +68,7 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=thelunarlogic&show_icons=true&locale=en"
         alt="thelunarlogic" /></p>
-### 😂 Random Dev Meme
+
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
